@@ -1,5 +1,3 @@
--- Generated with sanjuuni
--- https://sanjuuni.madefor.cc
 do
 local image, palette = {
     {
