@@ -1,9 +1,11 @@
+-- Generated with sanjuuni
+-- https://sanjuuni.madefor.cc
 do
 local image, palette = {
     {
-        "\144",
-        "c",
-        "e"
+        "\159\155\143\139",
+        "ffff",
+        "7777"
     },
 }, {
     [0] = {0.941176, 0.941176, 0.941176},
